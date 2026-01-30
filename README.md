@@ -1,24 +1,95 @@
-# 💫 About Me:
-# 👋 Hi, I'm Rohit Rawat  <br><br>🔐 Cybersecurity | Digital Forensics | Malware Analysis  <br>☕ Java Developer (Core → Advanced)   <br>🌐 Building security-focused web applications  <br>🎯 Goal: Create real-world security tools, not just college projects  <br>
+<h1 align="center">Hi 👋, I'm Rohit Rawat</h1>
+<h3 align="center">
+ntegrated M.Tech CSE Student | Java Developer | DSA Learner
+</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;Digital+Forensics+Learner;Java+Developer;Malware+Analysis+Enthusiast;Building+Real-World+Security+Tools&center=true&width=650&height=50">
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_rawat_047) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-rawat-b28462324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rawatrohit0732@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohit12907&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohit12907&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit12907&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohit12907&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohit12907&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohit12907&label=Profile%20Views&color=0e75b6&style=flat">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohit12907&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_rawat_047)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-rawat-b28462324)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rawatrohit0732@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/rohit12907)
+
+---
+
+## 👨‍🎓 About Me
+
+- 🔐 Focused on **Cybersecurity, Digital Forensics & Malware Analysis**
+- ☕ Strong foundation in **Java (Core → Advanced)**
+- 🌱 Currently learning **Machine Learning for Threat Detection**
+- 👯 Looking to collaborate on **Security, Forensics & Java Projects**
+- 💬 Ask me about **Java, Cybersecurity, Malware, Digital Forensics**
+- ⚡ Fun fact: **I prefer understanding how attacks work before defending**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" height="32"/>
+</p>
+
+### 🌐 Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="32"/>
+</p>
+
+### 🛡️ Cybersecurity & Backend
+- **Malware Analysis**
+- **Digital Forensics (Disk / File / Mobile)**
+- **File Hashing & IOC Analysis**
+- **Machine Learning (Security Data)**
+- **Flask (Security Tools Backend)**
+- **REST APIs**
+- **MySQL / Firebase**
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="32"/>
+</p>
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit12907&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohit12907&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit12907&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit12907&theme=tokyonight" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit12907&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🚀 50 Days Coding Challenge (Java & DSA)
+- 🧠 Strong Understanding of Java, Streams & Concurrency
+- 🔍 Research-Oriented Approach in Cybersecurity
+
+---
+
+⭐ If you like my work, consider starring my repositories!
